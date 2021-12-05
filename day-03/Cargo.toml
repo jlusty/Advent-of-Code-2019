@@ -1,5 +1,5 @@
 [package]
-name = "day-3"
+name = "day-03"
 version = "0.1.0"
 authors = ["jlusty <54030459+jlusty@users.noreply.github.com>"]
 edition = "2018"
